@@ -13,9 +13,3 @@ else:
         if user_input % i == 0:
             number = False
             break
-
-    result = "number" if number else "not number"
-    print(f"{user_input} is {result}.")
-
-
-

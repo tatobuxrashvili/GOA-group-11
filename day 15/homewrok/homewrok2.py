@@ -7,16 +7,16 @@
 # ასევე დაბეჭდეთ არასწორი პაროლების რაოდენობა.
 
 correct_password = "goa best"
-incorrect_password = -1
+incorrect_password = -3
 
 while True:
     password = input("Enter the password: ")
     incorrect_password += 1
 
     if password == correct_password:
-        print("Correct password! Access granted.")
+        print("Correct password! Access.")
         break
     else:
-        print("Incorrect password. Please try again.")
+        print("Incorrect password.")
 
 
