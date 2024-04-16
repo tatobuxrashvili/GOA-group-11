@@ -8,15 +8,15 @@ print(  name ,   surname,  age )  #amis shemdeg is terminalshi shezlebs tavisi s
 
 
 # cvladshi gvaq sami rivcxvi shetanili 
-namber1 =30  #priveli cvladia 30
-namber2 =20  #meore cvladia 20
-namber3 =10  #mesame cvladia 10
+namber_1 =30  #priveli cvladia 30
+namber_2 =20  #meore cvladia 20
+namber_3 =10  #mesame cvladia 10
  
 
-print(namber1 -  namber2  - namber3)   #aq vaketebt matematikur gamotvlebs pirveli ari gamokleba 30 - 20 - 10
-print(namber1 +  namber2  + namber3)   #30 + 20 +10 aq vaketebt damatebas
-print(namber1 / namber2  / namber3)   #30 / 20/10 aq vaketebt gayofas
-print(namber1 *  namber2  * namber3)   #aq vaketebebt gamravlebas
+print(namber_1 -  namber_2  - namber_3)   #aq vaketebt matematikur gamotvlebs pirveli ari gamokleba 30 - 20 - 10
+print(namber_1 +  namber_2  + namber_3)   #30 + 20 +10 aq vaketebt damatebas
+print(namber_1 / namber_2  / namber_3)   #30 / 20/10 aq vaketebt gayofas
+print(namber_1 *  namber_2  * namber_3)   #aq vaketebebt gamravlebas
 
 
 

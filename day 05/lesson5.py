@@ -5,7 +5,7 @@ account_balance = 350
 format = "mp3"
 
 #Declaring a variable
-client_type = "new"
+lient_type = "ncew"
 
 
 #2nd_user #eror
