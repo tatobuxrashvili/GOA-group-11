@@ -30,7 +30,6 @@ circle(35)
 end_fill()
 
 
-
 #House
 penup()
 goto(-100, -100)
